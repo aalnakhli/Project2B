@@ -16,7 +16,7 @@ public class DatabaseTest {
     }
 
 
-    public JSONArray getJSONData(){  
+    public JSONArray getJSONData(){  //
 
         JSONArray results = null;
         Connection conn = null;
